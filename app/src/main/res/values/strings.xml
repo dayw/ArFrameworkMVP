@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FrameworkMVP</string>
+    <string name="appbar_scrolling_view_behavior">111</string>
 </resources>
